@@ -39,3 +39,5 @@ At the `custom_nodes` directory of your ComfyUI installation, clone this reposit
 ```bash
 git clone https://github.com/123jimin/MobileForm-topBarIcon
 ```
+## What does not work
+The toggle buttons.
