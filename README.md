@@ -35,6 +35,7 @@ MobileForm can only be used with the new menu layout. Ensure that the "Use new m
 Simple primitive nodes for numbers and text works the best. Other nodes may or may not work.
 
 If the MobileForm icon is not visible, then try adding `#mobile` to the URL and refreshing the page.
+With [Pysssss](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) extension you can easily view the generated images.
 
 ## Installation
 
