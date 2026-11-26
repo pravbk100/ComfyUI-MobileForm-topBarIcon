@@ -9,7 +9,7 @@ MobileForm is an extension for [ComfyUI](https://github.com/comfyanonymous/Comfy
 
 ## Example
 
-Simple workflow is available in the repo. and here is how the icon appears -
+A Sample workflow is available in the repo. and here is how the icon appears -
 
 ![Workflow](/screens/a.png)
 
