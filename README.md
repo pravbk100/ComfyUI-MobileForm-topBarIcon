@@ -1,7 +1,9 @@
-# ComfyUI MobileForm
+# ComfyUI MobileForm-topBarIcon
 
 > [!WARNING]
 > Currently MobileForm is in a "proof-of-concept" state; expect bugs and breaking changes.
+
+This is the fork of 123jimin/ComfyUI-MobileForm, Since comfyui changed a lot on frontend and the icon was not appearing in the sidebar in new comfy versions, This fork puts the icon on top bar.
 
 MobileForm is an extension for [ComfyUI](https://github.com/comfyanonymous/ComfyUI), providing simple form for any workflows, suitable for use on mobile phones.
 
