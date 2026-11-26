@@ -9,9 +9,9 @@ MobileForm is an extension for [ComfyUI](https://github.com/comfyanonymous/Comfy
 
 ## Example
 
-Here's a simple workflow for SDXL.
+Simple workflow is available in the repo. and here is how the icon appears -
 
-![Workflow](./docs/example-workflow.png)
+![Workflow](/screens/a.png)
 
 A "mobile-friendly" form will be automatically created based on that workflow.
 
