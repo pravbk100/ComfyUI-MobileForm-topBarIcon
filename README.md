@@ -1,7 +1,7 @@
 # ComfyUI MobileForm-topBarIcon
 
 > [!WARNING]
-> Currently MobileForm is in a "proof-of-concept" state; expect bugs and breaking changes.
+> Since comfyui frontend keeps evolving, expect bugs and breaking changes.
 
 This is a fork of [123jimin/ComfyUI-MobileForm](https://github.com/123jimin/ComfyUI-MobileForm). Since comfyui changed a lot on frontend and the icon was not appearing in the sidebar in new comfy versions, This fork puts the icon on top bar.
 
