@@ -3,7 +3,7 @@
 > [!WARNING]
 > Currently MobileForm is in a "proof-of-concept" state; expect bugs and breaking changes.
 
-This is the fork of 123jimin/ComfyUI-MobileForm, Since comfyui changed a lot on frontend and the icon was not appearing in the sidebar in new comfy versions, This fork puts the icon on top bar.
+This is a fork of [123jimin/ComfyUI-MobileForm](https://github.com/123jimin/ComfyUI-MobileForm). Since comfyui changed a lot on frontend and the icon was not appearing in the sidebar in new comfy versions, This fork puts the icon on top bar.
 
 MobileForm is an extension for [ComfyUI](https://github.com/comfyanonymous/ComfyUI), providing simple form for any workflows, suitable for use on mobile phones.
 
@@ -15,7 +15,7 @@ Simple workflow is available in the repo. and here is how the icon appears -
 
 A "mobile-friendly" form will be automatically created based on that workflow.
 
-![Mobile UI](./docs/example-ui.png)
+![Mobile UI](/screens/b.png)
 
 ## How to Use
 
