@@ -18,6 +18,7 @@ A "mobile-friendly" form will be automatically created based on that workflow.
 ![Mobile UI](/screens/b.png)
 
 Screenshot from a phone -
+
 ![Mobile](/screens/IMG_6519.JPG)
 
 ## How to Use
