@@ -17,6 +17,9 @@ A "mobile-friendly" form will be automatically created based on that workflow.
 
 ![Mobile UI](/screens/b.png)
 
+Screenshot from a phone -
+![Mobile UI](/screens/IMG_6519.png)
+
 ## How to Use
 
 MobileForm can only be used with the new menu layout. Ensure that the "Use new menu and workflow management." setting is set to either 'Top' or 'Bottom'.
